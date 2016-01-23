@@ -1,11 +1,9 @@
-package view;
+package com.zc.view;
 
 public class Hello {
 
 	public static void main(String[] args) {
 		System.out.println("dasdasdasdadasdasd");
+		
 	}
-	
-	
-	
 }

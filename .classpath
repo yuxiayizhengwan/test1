@@ -19,5 +19,18 @@
 			<attribute name="owner.project.facets" value="jst.web.jstl"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="D:/test1/lib/hibernate/slf4j-api-1.5.8.jar"/>
+	<classpathentry kind="lib" path="D:/test1/lib/hibernate/slf4j-log4j12-1.5.8.jar"/>
+	<classpathentry kind="lib" path="D:/test1/s2sh_jar/slf4j-nop-1.5.8.jar"/>
+	<classpathentry kind="lib" path="D:/test1/lib/hibernate/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="D:/test1/lib/hibernate/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="D:/test1/lib/hibernate/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/test1/lib/hibernate/ejb3-persistence.jar"/>
+	<classpathentry kind="lib" path="D:/test1/lib/hibernate/hibernate3.jar"/>
+	<classpathentry kind="lib" path="D:/test1/lib/hibernate/hibernate-commons-annotations.jar"/>
+	<classpathentry kind="lib" path="D:/test1/lib/hibernate/javassist-3.9.0.GA.jar"/>
+	<classpathentry kind="lib" path="D:/test1/lib/hibernate/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/test1/lib/hibernate/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="D:/test1/s2sh_jar/mysql-connector-java-3.1.13-bin.jar"/>
 	<classpathentry kind="output" path="WebRoot/WEB-INF/classes"/>
 </classpath>
